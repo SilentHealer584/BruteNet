@@ -2,8 +2,8 @@
 Python Network Bruteforcing project I will hopefully finish.... Wanna make it as optimised and small as possible.
 
 Goals:
-- 30 lines of code or less
-  This is harder than i thought, let's make it 50
-- Very Fast
-- 1 external module at most
-- No AI help (No chatgpt)
+- Compact (30l)
+This is harder than i thought, let's make it 50
+- Rapid
+- No External Modules
+- No Chatgpt
