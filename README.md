@@ -5,3 +5,4 @@ Goals:
 - 30 lines of code or less
 - Very Fast
 - 1 external module at most
+- No AI help (No chatgpt)
